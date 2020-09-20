@@ -93,8 +93,11 @@ header ul a{
 .img-mosaico-single{
 	width: 100%;
 	padding-top:100%;
-	background-color: #ccc;
+	background-color: #cccccc;
 	border:5px solid white;
+	background-image: url('../img/mosaico_consultorio1.jpg');
+	background-size: 100% 100%;
+	
 	/*
 	background-image:url('');
 	*/
