@@ -93,9 +93,8 @@ header ul a{
 .img-mosaico-single{
 	width: 100%;
 	padding-top:100%;
-	background-color: #cccccc;
+	background-color: #ccc;
 	border:5px solid white;
-	background-image: url('../img/mosaico_consultorio1.jpg');
 	background-size: 100% 100%;
 	
 	/*
@@ -324,6 +323,7 @@ section.depoimentos .depoimento-single{
 	padding-top: calc(100% / 9);
 	background-color: rgb(210,210,210);
 	border:6px solid white;
+	background-size: 100% 100%;
 }
 
 .facebook-chamada{
