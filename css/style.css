@@ -28,6 +28,7 @@ header{
 header .logo img{
 	float: left;
 	width: 236px;
+	border-radius: 10%;
 }
 
 nav.menu-mobile{
