@@ -27,7 +27,8 @@ header{
 
 header .logo img{
 	float: left;
-	width: 236px;
+	width: 225px;
+	height: 100px;
 	border-radius: 10%;
 }
 
@@ -54,6 +55,7 @@ nav.menu-mobile ul{
 }
 
 nav.menu-mobile ul li{
+	font-size: 12px;
 	text-transform: uppercase;
 }
 
