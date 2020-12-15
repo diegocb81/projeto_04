@@ -65,8 +65,7 @@ header{
 
 header .logo img{
 	float: left;
-	width: 225px;
-	height: 100px;
+	width: 235px;
 	border-radius: 10%;
 }
 
@@ -233,7 +232,6 @@ section.perfil-container .texto-perfil{
 section.perfil-container .texto-perfil h2{
 	 color: #698293;
 	 font-size: 18px;
-	 margin-top: -100px;
 }
 
 section.perfil-container .texto-perfil p{
@@ -366,7 +364,6 @@ section.depoimentos .depoimento-single{
 	padding-top: calc(100% / 9);
 	background-color: rgb(210,210,210);
 	border:6px solid white;
-	background-size: 100% 100%;
 }
 
 .facebook-chamada{
@@ -426,6 +423,9 @@ section.contato form{
 	padding-left: 9px;
 	border:1px solid #dadada;
 	margin-top:8px;
+	font-size: 15px;
+	color: #444;
+	font-weight: normal;
 }
 
 .form-wraper textarea{
@@ -435,6 +435,7 @@ section.contato form{
 	height: 121px;
 	resize: none;
 	border: 1px solid #dadada;
+	font-size: 15px;
 	/*
 	resize: horizontal;
 	resize: vertical;
